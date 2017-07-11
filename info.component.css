@@ -1,0 +1,22 @@
+.panel{
+  position: absolute;
+  left: 25%;
+  right: 80%;
+  width: 600px;
+  height: 800px;
+
+}
+h3{
+  text-align: center;
+}
+h4{
+  text-align: center;
+  color: gray;
+}
+
+button{
+  position: absolute;
+  left:40%;
+  right:60%;
+  width: 20%;
+}
